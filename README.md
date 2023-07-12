@@ -19,7 +19,7 @@ Joined Github **4** years ago.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MahmoudAbed74).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: Mahmoudabed120@gmail.com.
-- 📝 &nbsp; Checkout my [Resume]().
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/17FMYDxde9YAJzkSHT2DO6iwwfihLaYXR/view?usp=sharing).
 
 ### My Absolute Favorites:
 
